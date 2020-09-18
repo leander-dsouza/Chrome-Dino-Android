@@ -3,8 +3,9 @@ A custom replication of the Chrome's Dino offline game on Android using Unity 2D
 
 ## Gameplay
 
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45683974/93633701-01352380-fa0d-11ea-81cd-cb13e98daa88.gif"> 
+</p>
 
 
 ## Installation (TL;DR)
@@ -13,6 +14,7 @@ If you're not interested in setting up the Assets in your Unity 2D Project, and 
 
 
 ## Setup in Unity 2D
+(*tested on 2019.4.7f1*)
 
 * Create a new 2D Project in the Unity Editor.
 * Download Android Build Support as an add-on. If the download fails for some reason, download the SDK through [Android Studio](https://developer.android.com/studio/?gclid=Cj0KCQjwtZH7BRDzARIsAGjbK2YdCD80R12alROYyLURJUPHTxilCAwvNl5kqhTIyLfT0psg6MHk1Z8aAiHeEALw_wcB&gclsrc=aw.ds) and the NDK through [here](https://dl.google.com/android/repository/android-ndk-r19-windows-x86_64.zip).
